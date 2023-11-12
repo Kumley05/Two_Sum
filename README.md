@@ -1,2 +1,2 @@
 # Two_Sum
-Solution using HashMap
+Multiple Solutions 
